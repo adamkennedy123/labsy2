@@ -28,7 +28,7 @@ silahkan di lihat di bawah ini
 
 silahkan di lihat di bawah ini
 
-![img](screenshot/file:///C:/Users/Ruslan/Pictures/Screenshot/png1.png )
+![img](screenshot/ )
 
 # latihan1
 
